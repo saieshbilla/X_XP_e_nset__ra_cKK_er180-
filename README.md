@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-# Expense Tracker 
+# Expense Tracker
 
-This is a simple Python project that helps track expenses from a CSV file using **Pandas** and **NumPy**.
+This is a simple Python project that helps track expenses from a CSV file using Pandas and NumPy.
 
-##  What It Does
-
+## What It Does
 - Reads your expenses from `expenses.csv`
 - Shows:
   - Total money spent
@@ -13,14 +11,12 @@ This is a simple Python project that helps track expenses from a CSV file using 
   - Percentage split of categories
 
 ## Technologies Used
-
 - Python
 - Pandas
 - NumPy
 
 ## How to Run It
-
-1. Open terminal and go to project folder:
-=======
-# X_XP_e_nset__ra_cKK_er180-
->>>>>>> e870643284cbf03c3062372396247878a654837a
+1. Open terminal and navigate to the project folder.
+2. Run the script with:
+   ```bash
+   python expense_tracker.py
